@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/dondido/webrtc-video-room) 
+
 # WebRTC video chat app with ReactJS
 ## Synopsis
 WebRTC audio/video conferencing app with user authentication using ReactJS.
